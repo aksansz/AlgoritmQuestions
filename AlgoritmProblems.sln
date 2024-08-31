@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{0B3D02E8-658E-4794-BF19-36B511F3EE65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{EFF555EE-3D40-4159-8C15-F810E5DE6152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0B3D02E8-658E-4794-BF19-36B511F3EE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B3D02E8-658E-4794-BF19-36B511F3EE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B3D02E8-658E-4794-BF19-36B511F3EE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF555EE-3D40-4159-8C15-F810E5DE6152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF555EE-3D40-4159-8C15-F810E5DE6152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF555EE-3D40-4159-8C15-F810E5DE6152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF555EE-3D40-4159-8C15-F810E5DE6152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
