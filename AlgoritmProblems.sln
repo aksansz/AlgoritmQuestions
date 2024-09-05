@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningSum", "RunningSum\Ru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumWealth", "MaximumWealth\MaximumWealth.csproj", "{AD51702B-E9F0-47BA-A9A7-3DCD22228693}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{B798B749-7862-48F7-8D52-20B8D60131DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{AD51702B-E9F0-47BA-A9A7-3DCD22228693}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD51702B-E9F0-47BA-A9A7-3DCD22228693}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD51702B-E9F0-47BA-A9A7-3DCD22228693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B798B749-7862-48F7-8D52-20B8D60131DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B798B749-7862-48F7-8D52-20B8D60131DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B798B749-7862-48F7-8D52-20B8D60131DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B798B749-7862-48F7-8D52-20B8D60131DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
