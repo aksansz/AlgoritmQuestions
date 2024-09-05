@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumWealth", "MaximumWea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{B798B749-7862-48F7-8D52-20B8D60131DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepsToReduceZero", "StepsToReduceZero\StepsToReduceZero.csproj", "{FBA88004-7A0C-411A-A64B-A8800887DD6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{B798B749-7862-48F7-8D52-20B8D60131DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B798B749-7862-48F7-8D52-20B8D60131DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B798B749-7862-48F7-8D52-20B8D60131DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA88004-7A0C-411A-A64B-A8800887DD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA88004-7A0C-411A-A64B-A8800887DD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA88004-7A0C-411A-A64B-A8800887DD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA88004-7A0C-411A-A64B-A8800887DD6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
