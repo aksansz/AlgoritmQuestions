@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepsToReduceZero", "StepsT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleNode", "MiddleNode\MiddleNode.csproj", "{864A2A3D-B460-433B-BB0F-C62DE33AA162}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanConstruct", "CanConstruct\CanConstruct.csproj", "{F9965059-F4BC-4273-BC73-5445B76B172E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{864A2A3D-B460-433B-BB0F-C62DE33AA162}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{864A2A3D-B460-433B-BB0F-C62DE33AA162}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{864A2A3D-B460-433B-BB0F-C62DE33AA162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9965059-F4BC-4273-BC73-5445B76B172E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9965059-F4BC-4273-BC73-5445B76B172E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9965059-F4BC-4273-BC73-5445B76B172E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9965059-F4BC-4273-BC73-5445B76B172E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
