@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanConstruct", "CanConstruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{FF4FFEF8-A28D-4635-9DAA-05C2ECA3DBAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{BBC3164A-7C3D-4F73-927F-BD8AA846ED7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{FF4FFEF8-A28D-4635-9DAA-05C2ECA3DBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF4FFEF8-A28D-4635-9DAA-05C2ECA3DBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF4FFEF8-A28D-4635-9DAA-05C2ECA3DBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC3164A-7C3D-4F73-927F-BD8AA846ED7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC3164A-7C3D-4F73-927F-BD8AA846ED7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC3164A-7C3D-4F73-927F-BD8AA846ED7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC3164A-7C3D-4F73-927F-BD8AA846ED7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
