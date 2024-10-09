@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresOfSortedArray", "Squ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DublicateZero", "DublicateZero\DublicateZero.csproj", "{84F3632C-80AA-4066-A495-F361A56AED8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArray", "MergeSortedArray\MergeSortedArray.csproj", "{ABA38263-6B0D-4BC2-87CA-7C446C9F7EAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{84F3632C-80AA-4066-A495-F361A56AED8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84F3632C-80AA-4066-A495-F361A56AED8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84F3632C-80AA-4066-A495-F361A56AED8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA38263-6B0D-4BC2-87CA-7C446C9F7EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA38263-6B0D-4BC2-87CA-7C446C9F7EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA38263-6B0D-4BC2-87CA-7C446C9F7EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA38263-6B0D-4BC2-87CA-7C446C9F7EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
