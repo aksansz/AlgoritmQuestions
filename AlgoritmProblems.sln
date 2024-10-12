@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDublicatesFromSortedA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfNumAndDoubleExist", "CheckIfNumAndDoubleExist\CheckIfNumAndDoubleExist.csproj", "{26CC00AE-6EEB-4513-B7B1-042C855605DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidMountainArray", "ValidMountainArray\ValidMountainArray.csproj", "{184C2058-BC2E-4DA7-873E-C00DC7FB822C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{26CC00AE-6EEB-4513-B7B1-042C855605DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26CC00AE-6EEB-4513-B7B1-042C855605DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26CC00AE-6EEB-4513-B7B1-042C855605DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184C2058-BC2E-4DA7-873E-C00DC7FB822C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184C2058-BC2E-4DA7-873E-C00DC7FB822C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184C2058-BC2E-4DA7-873E-C00DC7FB822C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184C2058-BC2E-4DA7-873E-C00DC7FB822C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
